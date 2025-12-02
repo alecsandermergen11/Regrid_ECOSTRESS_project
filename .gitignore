@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# files ignored
+Coverage_mapbiomas/
+Rasters_buffers_data/
+
 # C extensions
 *.so
 
